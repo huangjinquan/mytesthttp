@@ -9,4 +9,7 @@ public class Main {
 	public void aaa(){
 		System.out.println("repo_clone");
 	}
+
+	private void bbb(){
+	};
 }

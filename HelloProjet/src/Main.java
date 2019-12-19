@@ -6,4 +6,7 @@ public class Main {
     public void testHelloWrold() {
         System.out.println("HelloWorld!");
     }
+	public void aaa(){
+		System.out.println("repo_clone");
+	}
 }

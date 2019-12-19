@@ -11,5 +11,6 @@ public class Main {
 	}
 
 	private void bbb(){
+		6666
 	};
 }
